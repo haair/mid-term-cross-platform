@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "78951738748",
+    "project_id": "ssni-344",
+    "storage_bucket": "ssni-344.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78951738748:android:0bb2860ad964d0b6a948f9",
+        "android_client_info": {
+          "package_name": "com.example.mid_term_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUqI-EDTURY8IoXRerVIhft3ogLLYPFZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
